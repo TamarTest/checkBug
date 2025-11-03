@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
+
+
+
 namespace SQLi_1
 {
     class Program
@@ -42,6 +45,10 @@ namespace SQLi_1
                         cmd.Connection = conn;
                         cmd.ExecuteScalar();
                     }
+
+
+
+                    
 
                 }
             }
