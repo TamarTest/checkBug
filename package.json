@@ -45,6 +45,8 @@
 		"redux-thunk": "^2.3.0",
 		"sass": "1.50.1",
 		"sc-lib": "git+ssh://git@bitbucket.org:rxsense/sc-lib.git#v3.2.0",
+		"express": "4.16.0", 
+		"lodash": "4.17.10",
 		"uuid": "^9.0.0"
 	},
 	"devDependencies": {
@@ -75,3 +77,4 @@
 		]
 	}
 }
+
