@@ -17,6 +17,9 @@
     <packaging>pom</packaging>
     <name>Wrapper for Publisher and its bundled plugins</name>
 
+
+
+         
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
